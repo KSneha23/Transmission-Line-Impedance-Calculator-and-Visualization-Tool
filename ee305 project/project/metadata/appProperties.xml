@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="5AD064E4CFF2FBD3419E12D3819252198E5AA1EA">
+
+  <entryPoint>app3</entryPoint>
+
+  <name>Transmission line input impedence</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2020b)</createdByMATLABRelease>
+
+  <GUID>31588780-7676-4059-a4d5-cde89d19dca2</GUID>
+
+  <author>
+    <name>Sneha,Harshitha,Kirtika,Pavani,Sarvani</name>
+    <contact></contact>
+    <organization></organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts/>
+
+  <numFiles>1</numFiles>
+
+  <created>2022-11-02T18:17:40Z</created>
+
+  <appEntries>
+    <appFile>/app3.mlapp</appFile>
+  </appEntries>
+
+</appProperties>
